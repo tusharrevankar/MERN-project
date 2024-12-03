@@ -1,0 +1,26 @@
+# Environment variables
+.env
+
+# Logs
+logs
+*.log
+error.log
+combined.log
+
+# Dependencies
+node_modules/
+
+# IDE files
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build files
+dist/
+build/
+
+# Docker volumes
+mysql_data/ 
